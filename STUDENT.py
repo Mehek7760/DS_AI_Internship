@@ -40,3 +40,4 @@ print("\nCleaned Shape:", df.shape)
 
 print("\nCleaned Dataset:")
 print(df)
+print(df.info())
