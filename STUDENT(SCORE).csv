@@ -1,0 +1,11 @@
+StudyHours,Attendance,PreviousMarks,AssignmentMarks,InternalMarks,Result
+2,55,35,40,38,Fail
+3,60,40,45,42,Fail
+4,70,50,55,50,Pass
+5,75,60,65,60,Pass
+6,80,70,75,70,Pass
+7,85,80,85,80,Pass
+1,50,30,35,32,Fail
+8,90,85,90,88,Pass
+2,58,38,42,40,Fail
+5,78,65,70,68,Pass
